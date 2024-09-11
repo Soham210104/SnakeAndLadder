@@ -35,12 +35,8 @@ GameDevelopment, C#, Unity Engine,Game Programming.
 
 [Documentation](https://docs.unity3d.com/Manual/index.html)
 
-## Link
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/soham-ovhal-pccoe_unity2d-unitydeveloper-unitydevelopment-activity-7095133984862408704-NUSs?utm_source=share&utm_medium=member_desktop)
-
-
 
 ## 🔗 Links
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/soham-ovhal-pccoe_unity2d-unitydeveloper-unitydevelopment-activity-7095133984862408704-NUSs?utm_source=share&utm_medium=member_desktop)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/soham-ovhal-406187142_unity2d-unitydeveloper-unitydevelopment-activity-7095133984862408704-TUMy?utm_source=share&utm_medium=member_desktop)
 
